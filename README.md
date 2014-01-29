@@ -6,3 +6,7 @@ Test repo for github for mac app
 ———
 
 Prova commit
+
+Con una linea in mezzo!
+
+Secondo commit
